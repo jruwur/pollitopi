@@ -1,0 +1,13 @@
+  /* Estilo para el mapa */
+  #map {
+    height: 400px;
+    width: 100%;
+}
+
+/* Estilo para centrar el mapa */
+.map-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
